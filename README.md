@@ -11,7 +11,7 @@ Other than assisting you with meanings, antonyms and synonyms it gives witty rep
 * Just start the chat. It will assist you.
 
 ### PS - 
-Obviously the chat won't reply if it won't be online from the server side. However, I'll try to keep it online as much as possible.
+Obviously the bot won't reply if it won't be online from the server side. However, I'll try to keep it online as much as possible.
 
 ### More features
 I have lots of ideas that I can try with this bot so no, it isn't it. More features will be added whenever I'll get time to work on it. Right now it was just a 3 hours minor project but will definitely keep working on it. 
